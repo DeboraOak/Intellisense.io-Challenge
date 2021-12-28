@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="google-sheets-challenge/src/main/java"/>
+	<classpathentry kind="src" path="google-sheets-challenge/src/test/java"/>
+	<classpathentry kind="lib" path="google-sheets-challenge/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="google-sheets-challenge/build/classes/java/main"/>
+</classpath>

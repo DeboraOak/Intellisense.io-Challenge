@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="google-sheets-challenge.google-sheets-challenge.main~1" target="11" />
+      <module name="google-sheets-challenge.google-sheets-challenge.test~1" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
